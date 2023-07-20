@@ -1,4 +1,4 @@
-#yright 2022 DeepMind Technologies Limited.
+#copyright 2022 DeepMind Technologies Limited.
 # Licensed under the Apache License, Version 2.0 and CC BY 4.0.
 # You may not use this file except in compliance with these licenses.
 # Copies of the licenses can be found at https://www.apache.org/licenses/LICENSE-2.0
